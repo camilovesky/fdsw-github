@@ -24,6 +24,10 @@ body {
   background-color: #8FAEA4;
 }
 
+.logo-navbar {
+  height: 50px; /* Ajusta según necesites */
+}
+
 /* Contacto */
 
 #Contacto form label {
