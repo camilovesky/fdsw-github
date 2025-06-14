@@ -19,6 +19,10 @@ body {
   background-size: cover;
   background-position: center;
 }
+/* color personalizado */
+.bg-personalizado {
+  background-color: #8FAEA4;
+}
 
 /* Contacto */
 
